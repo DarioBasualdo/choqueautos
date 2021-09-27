@@ -1,0 +1,12 @@
+D:\juego tacho de basura\tacho de basuara\tacho de basuara\bin\Debug\tacho de basuara.exe.config
+D:\juego tacho de basura\tacho de basuara\tacho de basuara\bin\Debug\tacho de basuara.exe
+D:\juego tacho de basura\tacho de basuara\tacho de basuara\bin\Debug\tacho de basuara.pdb
+D:\juego tacho de basura\tacho de basuara\tacho de basuara\obj\Debug\choquedeautos.csproj.AssemblyReference.cache
+D:\juego tacho de basura\tacho de basuara\tacho de basuara\obj\Debug\tacho_de_basuara.bomba.resources
+D:\juego tacho de basura\tacho de basuara\tacho de basuara\obj\Debug\tacho_de_basuara.Properties.Resources.resources
+D:\juego tacho de basura\tacho de basuara\tacho de basuara\obj\Debug\tacho_de_basuara.inicio.resources
+D:\juego tacho de basura\tacho de basuara\tacho de basuara\obj\Debug\tacho_de_basuara.jugar.resources
+D:\juego tacho de basura\tacho de basuara\tacho de basuara\obj\Debug\choquedeautos.csproj.GenerateResource.cache
+D:\juego tacho de basura\tacho de basuara\tacho de basuara\obj\Debug\choquedeautos.csproj.CoreCompileInputs.cache
+D:\juego tacho de basura\tacho de basuara\tacho de basuara\obj\Debug\tacho de basuara.exe
+D:\juego tacho de basura\tacho de basuara\tacho de basuara\obj\Debug\tacho de basuara.pdb
